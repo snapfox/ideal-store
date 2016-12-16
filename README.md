@@ -1,2 +1,2 @@
 # ideal-store
-I'm just a passionate code really can't say much about myself
+There's a lot that I want to place inside this readme file
